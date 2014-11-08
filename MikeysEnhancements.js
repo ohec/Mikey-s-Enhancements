@@ -1,10 +1,9 @@
 /**
- * Mikey's Enhancements:
+ * Mikey's Enhancements
+ *
+ * @author Michael T. Cawley (mikey@mikeys.biz)
+ * @license GPLv3
  */
-
-
-
-
 BBLog.handle("add.plugin", {
     id:   "mikeys-enhancements",
     name: "Mikey's Enhancements",
